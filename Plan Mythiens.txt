@@ -1,0 +1,27 @@
+Description:
+-Survival Game Like ARK where you need to collect resources, build and craft to survive
+-Open world
+-Unique monsters that can be used to either: Fight other creatures, help you collect resources, help you collect unique resources, transport
+-real time battle
+-making your own buildings (something like in PokeWilds)
+-top down view 2d with pixel tiles
+-16x16 tiles
+-random spawns defined for each part of the game
+Creatures Description:
+-Stats: Health, Physical Attack, Special Attack, Physical Defense, Special Defense, Stamina(bigger stamina is faster you can use Physical Attack Moves), Mana(bigger mana is faster you can Special Attack Moves), intelligence(bigger intelligence is creature collcet resources, craft and build faster)
+-Up to 5 Attacks
+-Special unique skills: some creatures can collect unique resources or be used to transport on land, water and sky
+Player Description:
+Stats: Health, Power(bigger the power stronger the attacks are), Defense, endurance(Bigger endurance is more materials you can carry), intelligence(bigger intelligence is creature collcet resources, craft and build faster)
+-9 main slots containg items
+-can carry up to 5 creatures at max (+1transport creature of each transport methode)
+-Diffrent armors with diffrent effect like heat resistance
+-character costumization
+Food:
+-Foods with diffrent effects like boosting
+-can be gathered from deafeted creatures or bushes and stuff like that
+Tasks:
+Termos-Sprites
+SteamedKoko-Code
+?-Music
+?-Voice Acting
